@@ -1,0 +1,4 @@
+- Review code: 9h00 - 10h00
+- Fix some small bug code review: 10h00 - 10h30
+- Install imagick-7 to test: 10h30 - 12h30
+- Setup and run test: 15h00-18h00
