@@ -18,6 +18,9 @@
 - 16h00 - 16h30: Test s3 wasabi
 - 17h00 - 17h30: Test s3 wasabi
 - 17h30 - 18h00: Test s3 wasabi
+=> IM7 render design slower than IM6 1.5 time
+=> IM7 render customization slower than IM6 is small may be 0.5 - 1s
+=> IM7 no transform and only render same IM6 
 
 ## document and resource read
 
